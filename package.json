@@ -1,8 +1,6 @@
 {
-  "name": "whatsdev",
+  "name": "whatsclone",
   "version": "0.0.1",
-  "description": "A Quasar Framework app",
-  "productName": "WhatsDev",
   "private": true,
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
