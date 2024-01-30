@@ -1,0 +1,39 @@
+.q-field{
+    height: 42px;
+}
+.q-field__control{
+    height: 42px;
+}
+.q-field__marginal {
+    height: auto;
+}
+.q-field__control-container {
+    height: 42px !important;
+}
+
+.q-fiel__label {
+    top: 10px;
+    bottom: 10px;
+    font-size: 15px;
+    color: $font-grey;
+}
+
+html{
+  background-color: #D9D9D9;
+  margin-top: 5%;
+}
+*{
+  font-family: 'Palanquin Dark', sans-serif;
+}
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  border-radius: 10px 10px 0 ;
+  background: $tres;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: $um;
+}
